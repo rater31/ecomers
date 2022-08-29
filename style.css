@@ -1,0 +1,23 @@
+body{
+    color: blue;
+}
+
+h3{
+    color: brown;
+    font-size: 30px;
+    background-color: chartreuse;
+}
+
+p{
+    background-color: chocolate;
+}
+
+.menu{
+    background-color: grey;
+
+}
+
+.img-zapas{
+    border-radius: 15px;
+    margin-bottom:100px ;
+}
