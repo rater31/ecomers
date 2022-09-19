@@ -39,3 +39,9 @@
     float: left;
     margin-inline-start: 50px;
 }
+.img{
+    border-radius: 15px;
+}
+.imgG{
+    width: 50px;
+}
